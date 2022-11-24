@@ -1,7 +1,7 @@
 # 2017331058_V_V_Assignment
 
-Maven is used as Project Manager.
-
 The converge rate of Task1 is 73% and Task2 is 77%. 
 
 The result is in "images" folder.
+
+Apache Maven is used as Project Manager.
